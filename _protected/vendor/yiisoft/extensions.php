@@ -48,4 +48,40 @@ return array (
       '@yii/faker' => $vendorDir . '/yiisoft/yii2-faker',
     ),
   ),
+  'nenad/yii2-widgets-base' => 
+  array (
+    'name' => 'nenad/yii2-widgets-base',
+    'version' => '2.0.0.0',
+    'alias' => 
+    array (
+      '@nenad' => $vendorDir . '/nenad/yii2-widgets-base',
+    ),
+  ),
+  'nenad/yii2-password-strength' => 
+  array (
+    'name' => 'nenad/yii2-password-strength',
+    'version' => '2.3.0.0',
+    'alias' => 
+    array (
+      '@nenad/passwordStrength' => $vendorDir . '/nenad/yii2-password-strength',
+    ),
+  ),
+  'mihaildev/yii2-ckeditor' => 
+  array (
+    'name' => 'mihaildev/yii2-ckeditor',
+    'version' => '1.0.1.0',
+    'alias' => 
+    array (
+      '@mihaildev/ckeditor' => $vendorDir . '/mihaildev/yii2-ckeditor',
+    ),
+  ),
+  'yiisoft/yii2-codeception' => 
+  array (
+    'name' => 'yiisoft/yii2-codeception',
+    'version' => '2.0.6.0',
+    'alias' => 
+    array (
+      '@yii/codeception' => $vendorDir . '/yiisoft/yii2-codeception',
+    ),
+  ),
 );
